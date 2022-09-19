@@ -1,7 +1,7 @@
 List Projek 2022
 
 1. Monitoring Istirahat
-....
+Monitoring Istirahat akan digunakan oleh karyawan sebagai bukti serah terima kartu istirahat yang telah disiapkan oleh team security. Ini pun akan membantu security untuk memonitor kartu istirahat yang dipakai, dan dipakai oleh siapa kartu tersebut. Saat karyawan masuk pun akan muncul durasi istirahat karyawan saat mengembalikan kartu istirahat tersebut
 
 2. Absen Manual Foreman
 ....
