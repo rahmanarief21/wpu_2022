@@ -1,5 +1,13 @@
 Design table
 
+_kartu_istirahat
+
+id => PK
+rest_card_no => int => 5
+location => varchar => 30 -> id_raspberry
+status => int => 1 -> (0 : Not Avail, 1 : Avail)
+timestamp()
+
 _last_rest_card
 
 id => int => (AI)
