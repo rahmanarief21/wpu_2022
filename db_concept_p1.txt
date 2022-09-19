@@ -1,1 +1,6 @@
 Design table
+
+_last_rest_card
+
+id => int => (AI)
+card_id => int
